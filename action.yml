@@ -1,6 +1,6 @@
-name: 'CapRover Deploy'
-description: 'Action to deploy on Caprover server'
-author: 'Alexey Schebelev'
+name: 'CapRover Deploy (test Git command)'
+description: 'Test git rev-parse master when deploying'
+author: 'Louis L'
 branding:
   icon: upload-cloud
   color: orange
